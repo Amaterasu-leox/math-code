@@ -1,17 +1,16 @@
-# Math Code
+# Math Code 🧮
 
-Bienvenue sur mon projet de programmation mathématique.
+Math Code est un projet consacré à la pratique des mathématiques avec la programmation.
 
-## 📚 À propos
+Le projet contient différents exercices, calculs et programmes permettant de travailler les opérations, les nombres et la logique.
 
-Ce projet contient différents exercices et programmes mathématiques réalisés en programmation.
+## Objectif
 
-## 🛠️ Technologies
+Pratiquer la programmation et progresser en résolution de problèmes mathématiques.
+
+## Technologies
 
 - Python 🐍
 - Git
 - GitHub
-
-## 🎯 Objectif
-
-Pratiquer la programmation à travers des exercices et des calculs mathématiques.
+- Visual Studio Code 💻
